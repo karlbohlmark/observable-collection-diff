@@ -1,6 +1,6 @@
 {
-  "name": "observable-array-diff",
-  "repo": "karlbohlmark/observable-array-diff",
+  "name": "observable-collection-diff",
+  "repo": "karlbohlmark/observable-collection-diff",
   "description": "Observable diff of two collections",
   "version": "0.0.1",
   "keywords": [],
