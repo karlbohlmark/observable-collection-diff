@@ -1,0 +1,17 @@
+{
+  "name": "observable-array-diff",
+  "repo": "karlbohlmark/observable-array-diff",
+  "description": "Observable diff of two collections",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "karlbohlmark/observable-collection": "*",
+    "karlbohlmark/set-diff": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
